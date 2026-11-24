@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+The Last Cargo is a dark survival horror - where your road to independence leads through the hell of imprisonment.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Dual Core 2.4 Ghz or equivalent / Rec: Quad Core 3.0 Ghz or equivalent | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 2 MB RAM / Rec: 4 MB RAM | 2 MB RAM |
+| **Graphics** | Min: 256 VRAM / Rec: 512 VRAM | Metal-capable GPU |
+| **DirectX** | Version 9.0 | Version 9.0 |
+| **Storage** | 400 MB available space | 400 MB available space |
+| **OS *** | Windows XP or later | Windows XP or later |
+| **Additional Notes** | Minimum resolution: 1280x720 | Minimum resolution: 1280x720 |
 
 ---
 
